@@ -2,8 +2,7 @@
 
 ## ☄ Meteor Challenge (Part 1) 🌟✨
 
-
-Tasks:
+**Tasks related to [Meteor image](https://github.com/WellersonPrenholato/challenge-scipio-labs/blob/main/meteor_challenge_01.png):**
 
 1. Count the number of Stars.
 2. Count the number of Meteors.
@@ -14,16 +13,16 @@ Tasks:
 
 ---
 
-[Sample] Answers:
-Number of Stars
-Number of Meteors
-Meteors falling on the Water
+**[Answers]:**<br>
+Number of Stars<br>
+Number of Meteors<br>
+Meteors falling on the Water<br>
 
 
 (optional) Hidden Phrase
 
 ---
-Pixel Ref:
+**Pixel Ref:**
 
     (pure white)    Stars
     (pure red)      Meteors
